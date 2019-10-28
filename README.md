@@ -2,4 +2,4 @@
 
 repo contenant mes notes de cours
 
-- notes-ml.md => note sprises sur mle livre Machine Learning Yearling
+- notes-ml.md => notes prises sur mle livre Machine Learning Yearling
