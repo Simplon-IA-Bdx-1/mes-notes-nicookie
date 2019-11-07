@@ -29,3 +29,6 @@
   - si la courbe du training set est éloignée de l'opti => biais
   - si la courbe du dev est éloignée du training => variance
 - la lecture de la jonction des deux courbes ensemble permet de voir vers où le modèle, à son meilleur va tendre.s
+
+
+comprehension de liste!"!!!

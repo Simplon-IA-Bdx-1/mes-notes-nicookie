@@ -1,4 +1,4 @@
-# Methodologie Kaggle pour un p[roblème de classification]
+# Methodologie Kaggle pour un problème de classification
 
 ## Compétition Kaggle
 
