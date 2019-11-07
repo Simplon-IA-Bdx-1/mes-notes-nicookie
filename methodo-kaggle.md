@@ -23,6 +23,7 @@
     - entrainement d'un modèle sur le train
     - batch prediction sur val
     - évaluation de la performance et des erreurs:
+      - analyse des erreurs (i.e. sortir les 100 plus grandes)
       - matrice de confusion
       - matrice de coûts
       - Calcul de l'AUC
